@@ -1,4 +1,4 @@
-# 🤖 Google Gemini Clone
+# 🤖 Google Gemini AI Assistant 
 
 A modern AI chatbot web application inspired by **Google Gemini**, built using **HTML, CSS, and JavaScript**. The project provides an intuitive conversational interface where users can interact with an AI assistant through a clean, responsive, and user-friendly design.
 
